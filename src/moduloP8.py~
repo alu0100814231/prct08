@@ -3,7 +3,7 @@
 
 import sys                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
               #Declaración de la función
-decimalespi = "3.1415926535897931159979634685441852" 
+decimalespi = 3.1415926535897931159979634685441852
 def aprox(n):  
   #n=int(n)
   if(n>0):

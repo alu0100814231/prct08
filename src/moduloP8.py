@@ -5,7 +5,7 @@ import sys
               #Declaración de la función
 decimalespi = 3.1415926535897931159979634685441852
 def aprox(n):  
-  #n=int(n)
+  n=int(n)
   if(n>0):
     suma=0.0 
     for i in range(1,n+1):
